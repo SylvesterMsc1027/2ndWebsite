@@ -1,0 +1,12 @@
+h1 {
+    font-size: 24px;
+}
+
+@media (max-width:900px)
+{
+    h1 {
+        color: red;
+        font-size: 84px;
+        background-color: blue;
+    }
+}
